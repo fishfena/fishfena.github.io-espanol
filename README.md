@@ -127,7 +127,7 @@
 									</a>
 									<div class="caption">
 										<h3>The eternal <i>Hydra</i></h3>
-										<p><i>Hydra</i> is a basal organism that have an endless capacity to regenerate through time, as they do not die nor age. The small bud on the right was a tiny tentacle that I took out and that later growed and acquired a chubby "adult" form. I had the chance to work on<i>Hydra</i> while in the Embryology course at the Marine Biological Laboratory in Woods Hole</p>
+										<p><i>Hydra</i> is a basal organism that have an endless capacity to regenerate through time, as they do not die nor age. The small bud on the right was a tiny tentacle that I took out and that later growed and acquired a chubby "adult" form. I had the chance to work on <i>Hydra</i> while in the Embryology course at the Marine Biological Laboratory in Woods Hole</p>
 										<ul class="actions fixed">
 											<li><span class="button small">Details</span></li>
 										</ul>
